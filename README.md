@@ -1,8 +1,11 @@
 # Tugas Pemograman Web 2
-
-**_<p>Nama: Delfian Ruly Havatilla</p>_**
-**_<p>Kelas: TI.21.A.1</p>_**
-**_<p>Nim: 312110161</p>_**
+## Profil
+| #               | Biodata           |
+| --------------- | ----------------- |
+| **Nama**        | Bilal AlHafidz    |
+| **NIM**         | 312110397         |
+| **Kelas**       | TI.21.A.1         |
+| **Mata Kuliah** | Pemrograman Web 2 |
 
 # Langkah-langkah & Persiapan
 <p>Untuk memulai membuat modul Login, yang perlu disiapkan adalah Database Server
